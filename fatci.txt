@@ -730,7 +730,7 @@ ro da namcu gi'o te pilji
 .i ro da se marji gi'o bolci
 .i ro da mokca gi'o se linji
 .i ro da se salpo gi'o radno
-.i ro se radno cu namcu
+.i ro da se radno gi'o namcu
 
 #textures
 .i je'u nai ro da dacti gi'o xutla
