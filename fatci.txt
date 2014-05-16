@@ -234,6 +234,10 @@ ro cidja cu ka'e fusra
 .i ro da ka'e se pinka
 .i ro da prenu gi'o te pinka
 .i ro da prenu gi'o ve pinka
+.i ro da prenu gi'o tavla
+.i ro da prenu gi'o se tavla
+.i ro da ka'e te tavla
+.i ro da bangu gi'o ve tavla
 
 .i ro da se moklu gi'o bacru
 .i ro da sance gi'o se bacru
@@ -353,8 +357,13 @@ ro papri cu dacti
 ro jbopre cu sampli
 ro fonxa cu minji
 
+.i ro da prenu gi'o prije
+.i ro da fatci gi'o se prije
+.i ro da prenu gi'o te prije
+
 ro da prenu gi'o se tixnu
 
+.i la'oi gracefu cu remna
 .i la timos cu nanmu
 .i la timos cu dotco
 .i la turgul cu prenu
