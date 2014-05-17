@@ -674,6 +674,10 @@ ro da namcu gi'o se djedi
 ro da temci gi'o jeftu
 ro da namcu gi'o se jeftu
 
+#math
+ro da sinso gi'o namcu
+ro da se sinso gi'o namcu
+
 #days
 .i ro da se cerni gi'o te tcika
 .i ro da se donri gi'o te tcika
